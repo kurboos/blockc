@@ -46,5 +46,5 @@ let create index data previousHash =
 
 
 // Example usage:
-//let genesis =
+// let genesis =
 //    Block.create 0 ["Genesis Block"] "0"
